@@ -1,0 +1,17 @@
+[
+{
+  "modid": "apache",
+  "name": "Apache",
+  "description": "Adds an Apache helicopter",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["thislooksfun"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,8 @@
+{
+  "run" : {
+    "catagory" : "master", "sounds" : [{"name" : "run", "stream" : false}]
+  },
+  "start" : {
+     "catagory" : "master", "sounds" : [{"name" : "start", "stream" : false}]
+  }
+}

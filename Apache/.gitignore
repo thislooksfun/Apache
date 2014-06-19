@@ -1,0 +1,13 @@
+/bin
+/.settings
+/.classpath
+/.DS_Store
+/.project
+/src/.DS_Store
+/src/com/.DS_Store
+/src/com/tlf/.DS_Store
+/assets/.DS_Store
+/assets/apache/.DS_Store
+/assets/apache/sounds/.DS_Store
+/assets/apache/textures/.DS_Store
+/assets/apache/textures/entity/.DS_Store
